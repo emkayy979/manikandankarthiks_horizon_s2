@@ -14,4 +14,7 @@ Error Handling:
 The program uses try and except blocks to check for value errors. (using wrong data type as input)
 
 
+How to run:
+Run using the command prompt.
 
+python level1rover_calc.py
