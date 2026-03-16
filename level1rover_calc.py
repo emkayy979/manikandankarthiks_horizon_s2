@@ -1,1 +1,1 @@
-print("Rover is ready!")
+print("Rover is !")
