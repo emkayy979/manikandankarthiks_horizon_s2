@@ -16,6 +16,7 @@ Upcoming Tasks
 
 
 
+
 CONTACT DETAILS :
 Manikandan Karthik S
-manikarthikclt@gmail.com
+karthik.sreedhar23@gmail.com
