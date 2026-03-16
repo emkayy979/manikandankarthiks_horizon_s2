@@ -18,7 +18,7 @@ How to run:
 >Navigate into the project folder:
 
 Bash
-cd "level1_rover"
+>cd level1_rover
 
 Execute the script:
 
