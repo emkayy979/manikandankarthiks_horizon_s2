@@ -35,6 +35,8 @@ try:
         print("Top speed cannot be negative, try again")
         exit()
 
+
+#checking for value error 
 except ValueError:
     print(" ERROR: Please enter numerical values, letters and symbols are not valid inputs.")
     exit()
@@ -42,14 +44,14 @@ except ValueError:
 
 
 
-#use motion paramteres given and motion in one dimension equations to find 
+#use motion paramteres given and motion in one dimension equations to find different values.
 # use v^2-u^2=2as to find the s (distance) covered till max V is reached.
 
 s= (v**2 - u**2)/(2*a)
 
 
 if s < distance:
-    # Time taken till it reaches v speed.
+    #1. Time taken till it reaches v speed.
     t1 = (v - u) / a
     
     # 2. Time taken cruising in v speed till it reaches final destination.
@@ -59,7 +61,8 @@ if s < distance:
     total_time = t1 + t2
 
 else:
- #rover doesnt achieve max speed before it hits its final destination. use v^2-u^2=2as to find the velocity at the final destination.
+ #rover doesnt achieve max speed before it hits its final destination. 
+#use v^2-u^2=2as to find the velocity at the final destination.
 
  v_final_destination = math.sqrt(u**2+ 2*a*distance)
  total_time = (v_final_destination - u)/a
