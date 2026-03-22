@@ -9,7 +9,7 @@ This repository contains my work on the tasks given for the recruitement process
 
     Level 2 – Arduino Simulation Completed. Rotating a servo motor.
 
-    Level 3 – ROS2 Task Partially done.
+    Level 3 – ROS2 Task Completed. Uploaded ros2 workspace and added screenshots of nodes working as expected.
 
     
 
