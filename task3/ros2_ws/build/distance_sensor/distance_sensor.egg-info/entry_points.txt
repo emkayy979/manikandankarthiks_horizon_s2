@@ -1,0 +1,4 @@
+[console_scripts]
+publisher = distance_sensor.publisher:main
+subscriber = distance_sensor.subscriber:main
+

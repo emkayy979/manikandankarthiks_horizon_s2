@@ -1,0 +1,26 @@
+running egg_info
+writing ../../build/distance_sensor/distance_sensor.egg-info/PKG-INFO
+writing dependency_links to ../../build/distance_sensor/distance_sensor.egg-info/dependency_links.txt
+writing entry points to ../../build/distance_sensor/distance_sensor.egg-info/entry_points.txt
+writing requirements to ../../build/distance_sensor/distance_sensor.egg-info/requires.txt
+writing top-level names to ../../build/distance_sensor/distance_sensor.egg-info/top_level.txt
+reading manifest file '../../build/distance_sensor/distance_sensor.egg-info/SOURCES.txt'
+writing manifest file '../../build/distance_sensor/distance_sensor.egg-info/SOURCES.txt'
+running build
+running build_py
+copying distance_sensor/subscriber.py -> /home/mkmk/ros2_ws/build/distance_sensor/build/lib/distance_sensor
+copying distance_sensor/publisher.py -> /home/mkmk/ros2_ws/build/distance_sensor/build/lib/distance_sensor
+running install
+running install_lib
+copying /home/mkmk/ros2_ws/build/distance_sensor/build/lib/distance_sensor/subscriber.py -> /home/mkmk/ros2_ws/install/distance_sensor/lib/python3.10/site-packages/distance_sensor
+copying /home/mkmk/ros2_ws/build/distance_sensor/build/lib/distance_sensor/publisher.py -> /home/mkmk/ros2_ws/install/distance_sensor/lib/python3.10/site-packages/distance_sensor
+byte-compiling /home/mkmk/ros2_ws/install/distance_sensor/lib/python3.10/site-packages/distance_sensor/subscriber.py to subscriber.cpython-310.pyc
+byte-compiling /home/mkmk/ros2_ws/install/distance_sensor/lib/python3.10/site-packages/distance_sensor/publisher.py to publisher.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/mkmk/ros2_ws/install/distance_sensor/lib/python3.10/site-packages/distance_sensor-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/distance_sensor/distance_sensor.egg-info to /home/mkmk/ros2_ws/install/distance_sensor/lib/python3.10/site-packages/distance_sensor-0.0.0-py3.10.egg-info
+running install_scripts
+Installing publisher script to /home/mkmk/ros2_ws/install/distance_sensor/lib/distance_sensor
+Installing subscriber script to /home/mkmk/ros2_ws/install/distance_sensor/lib/distance_sensor
+writing list of installed files to '/home/mkmk/ros2_ws/build/distance_sensor/install.log'

@@ -1,0 +1,28 @@
+[2.150s] Invoking command in '/home/mkmk/ros2_ws/src/distance_sensor': PYTHONPATH=/home/mkmk/ros2_ws/build/distance_sensor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mkmk/ros2_ws/install/distance_sensor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/distance_sensor build --build-base /home/mkmk/ros2_ws/build/distance_sensor/build install --record /home/mkmk/ros2_ws/build/distance_sensor/install.log --single-version-externally-managed install_data
+[2.818s] running egg_info
+[2.921s] writing ../../build/distance_sensor/distance_sensor.egg-info/PKG-INFO
+[2.927s] writing dependency_links to ../../build/distance_sensor/distance_sensor.egg-info/dependency_links.txt
+[2.932s] writing entry points to ../../build/distance_sensor/distance_sensor.egg-info/entry_points.txt
+[2.933s] writing requirements to ../../build/distance_sensor/distance_sensor.egg-info/requires.txt
+[2.933s] writing top-level names to ../../build/distance_sensor/distance_sensor.egg-info/top_level.txt
+[2.953s] reading manifest file '../../build/distance_sensor/distance_sensor.egg-info/SOURCES.txt'
+[2.961s] writing manifest file '../../build/distance_sensor/distance_sensor.egg-info/SOURCES.txt'
+[2.966s] running build
+[2.966s] running build_py
+[2.966s] copying distance_sensor/subscriber.py -> /home/mkmk/ros2_ws/build/distance_sensor/build/lib/distance_sensor
+[2.976s] copying distance_sensor/publisher.py -> /home/mkmk/ros2_ws/build/distance_sensor/build/lib/distance_sensor
+[2.976s] running install
+[2.976s] running install_lib
+[2.976s] copying /home/mkmk/ros2_ws/build/distance_sensor/build/lib/distance_sensor/subscriber.py -> /home/mkmk/ros2_ws/install/distance_sensor/lib/python3.10/site-packages/distance_sensor
+[2.987s] copying /home/mkmk/ros2_ws/build/distance_sensor/build/lib/distance_sensor/publisher.py -> /home/mkmk/ros2_ws/install/distance_sensor/lib/python3.10/site-packages/distance_sensor
+[2.987s] byte-compiling /home/mkmk/ros2_ws/install/distance_sensor/lib/python3.10/site-packages/distance_sensor/subscriber.py to subscriber.cpython-310.pyc
+[2.990s] byte-compiling /home/mkmk/ros2_ws/install/distance_sensor/lib/python3.10/site-packages/distance_sensor/publisher.py to publisher.cpython-310.pyc
+[2.996s] running install_data
+[2.996s] running install_egg_info
+[3.006s] removing '/home/mkmk/ros2_ws/install/distance_sensor/lib/python3.10/site-packages/distance_sensor-0.0.0-py3.10.egg-info' (and everything under it)
+[3.008s] Copying ../../build/distance_sensor/distance_sensor.egg-info to /home/mkmk/ros2_ws/install/distance_sensor/lib/python3.10/site-packages/distance_sensor-0.0.0-py3.10.egg-info
+[3.015s] running install_scripts
+[3.075s] Installing publisher script to /home/mkmk/ros2_ws/install/distance_sensor/lib/distance_sensor
+[3.078s] Installing subscriber script to /home/mkmk/ros2_ws/install/distance_sensor/lib/distance_sensor
+[3.088s] writing list of installed files to '/home/mkmk/ros2_ws/build/distance_sensor/install.log'
+[3.180s] Invoked command in '/home/mkmk/ros2_ws/src/distance_sensor' returned '0': PYTHONPATH=/home/mkmk/ros2_ws/build/distance_sensor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mkmk/ros2_ws/install/distance_sensor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/distance_sensor build --build-base /home/mkmk/ros2_ws/build/distance_sensor/build install --record /home/mkmk/ros2_ws/build/distance_sensor/install.log --single-version-externally-managed install_data
