@@ -8,11 +8,11 @@ Completed Tasks:
 
 Upcoming Tasks
 
-    Level 2 – Arduino Simulation (Wokring on it)
+    Level 2 – Arduino Simulation Completed. 
 
-    Level 3 – ROS2 Task (Planned)
+    Level 3 – ROS2 Task Partially done.
 
-    Bonus Task – ROS2 Rover Command Node (Planned)
+    
 
 
 
