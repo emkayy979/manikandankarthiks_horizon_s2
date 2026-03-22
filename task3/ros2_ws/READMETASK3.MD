@@ -3,13 +3,17 @@ One node sends out random distance values, another node receives and prints them
 
 What This Does
 
-Publisher node – generates a random  value every second and sends it on topic called   /rover_distance
-Subscriber node –  it listens to that topic and prints every value that it gets.
+	Publisher node – generates a random  value every second and sends it on topic called   /rover_distance
+	
+	
+	Subscriber node –  it listens to that topic and prints every value that it gets.
+
+
 
 Requirements
 
-Ubuntu 22.04
-ROS2 Humble
+	Ubuntu 22.04
+	ROS2 Humble
 
 
 SET UP!!
